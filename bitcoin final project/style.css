@@ -1,0 +1,12 @@
+body
+{
+    border: 1px solid black;
+    text-align: center;
+    background: rgb(215, 230, 196);
+}
+
+h3,h1{
+    color: rgb(22, 104, 58);
+}
+
+
